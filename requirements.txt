@@ -1,0 +1,7 @@
+streamlit
+pydantic
+google-genai
+ollama
+groq
+python-dotenv
+rich
