@@ -2,7 +2,7 @@
 
 **AgentVerse** is a professional-grade multi-agent collaboration system designed for autonomous task delegation, deep research, and high-quality technical writing. Featuring a premium "Pac-Man Edition" glassmorphism interface, it bridges the gap between local LLMs (Ollama) and cloud-based giants (Groq, Gemini).
 
-![AgentVerse UI Mockup]("C:\Users\LENOVO\Downloads\ss.png") *(Note: Replace with actual screenshot after deployment)*
+![AgentVerse UI Mockup]("C:\Users\LENOVO\Downloads\ss.png") actual screenshot after deployment
 
 Deployment Link: https://multi-agent-universegit-u88n7nm3uw2cizhfkqweqo.streamlit.app/
 
